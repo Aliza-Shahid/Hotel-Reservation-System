@@ -1,0 +1,67 @@
+RoomID,Location,Type,Availability,Pricepernight
+RoomID,Location,Type,Availability,Price per Night
+00123456789012,Karachi-Defense,Single,Available,1400
+00123456789013,Karachi-Defense,Double,Available,1900
+00123456789014,Karachi-Defense,Suite,Available,2500
+00123456789015,Karachi-Defense,Deluxe,Available,3200
+00123456789016,Karachi-Clifton,Single,Available,1200
+00123456789017,Karachi-Clifton,Double,Available,1600
+00123456789018,Karachi-Clifton,Suite,Available,2100
+00123456789019,Karachi-Clifton,Deluxe,Available,3000
+00123456789020,Karachi-Korangi,Single,Available,1000
+00123456789021,Karachi-Korangi,Double,Available,1200
+00123456789022,Karachi-Korangi,Suite,Available,1900
+00123456789023,Karachi-Korangi,Deluxe,Available,2400
+
+00234567890123,Lahore-Gulberg,Single,Available,1200
+00234567890124,Lahore-Gulberg,Double,Available,1700
+00234567890125,Lahore-Gulberg,Suite,Available,2200
+00234567890126,Lahore-Gulberg,Deluxe,Available,2700
+00234567890127,Lahore-JoharTown,Single,Available,1300
+00234567890128,Lahore-JoharTown,Double,Available,1800
+00234567890129,Lahore-JoharTown,Suite,Available,2300
+00234567890130,Lahore-JoharTown,Deluxe,Available,2800
+00234567890131,Lahore-IqbalTown,Single,Available,1400
+00234567890132,Lahore-IqbalTown,Double,Available,1900
+00234567890133,Lahore-IqbalTown,Suite,Available,2400
+00234567890134,Lahore-IqbalTown,Deluxe,Available,2900
+
+00345678901234,Islamabad-F-6,Single,Available,1600
+00345678901235,Islamabad-F-6,Double,Available,2200
+00345678901236,Islamabad-F-6,Suite,Available,2900
+00345678901237,Islamabad-F-6,Deluxe,Available,3500
+00345678901238,Islamabad-F-7,Single,Available,1500
+00345678901239,Islamabad-F-7,Double,Available,2000
+00345678901240,Islamabad-F-7,Suite,Available,2500
+00345678901241,Islamabad-F-7,Deluxe,Available,3000
+00345678901242,Islamabad-G-11,Single,Available,1600
+00345678901243,Islamabad-G-11,Double,Available,2100
+00345678901244,Islamabad-G-11,Suite,Available,2600
+00345678901245,Islamabad-G-11,Deluxe,Available,3100
+
+00456789012345,Rawalpindi-Pindi,Single,Available,1100
+00456789012346,Rawalpindi-Pindi,Double,Available,1600
+00456789012347,Rawalpindi-Pindi,Suite,Available,2100
+00456789012348,Rawalpindi-Pindi,Deluxe,Available,2600
+00456789012349,Rawalpindi-Westridge,Single,Available,1200
+00456789012350,Rawalpindi-Westridge,Double,Available,1700
+00456789012351,Rawalpindi-Westridge,Suite,Available,2200
+00456789012352,Rawalpindi-Westridge,Deluxe,Available,2700
+00456789012353,Rawalpindi-Murree Road,Single,Available,1300
+00456789012354,Rawalpindi-Murree Road,Double,Available,1800
+00456789012355,Rawalpindi-Murree Road,Suite,Available,2300
+00456789012356,Rawalpindi-Murree Road,Deluxe,Available,2800
+
+00567890123456,Peshawar-Grand,Single,Available,120
+00567890123457,Peshawar-Grand,Double,Available,170
+00567890123458,Peshawar-Grand,Suite,Available,220
+00567890123459,Peshawar-Grand,Deluxe,Available,270
+00567890123460,Peshawar-Saddar,Single,Available,130
+00567890123461,Peshawar-Saddar,Double,Available,180
+00567890123462,Peshawar-Saddar,Suite,Available,230
+00567890123463,Peshawar-Saddar,Deluxe,Available,280
+00567890123464,Peshawar-University,Single,Available,140
+00567890123465,Peshawar-University,Double,Available,190
+00567890123466,Peshawar-University,Suite,Available,240
+00567890123467,Peshawar-University,Deluxe,Available,290
+
